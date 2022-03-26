@@ -1,0 +1,27 @@
+{
+  "name": "typescript-solid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fyoussef/SOLID-TYPESCRIPT.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fyoussef/SOLID-TYPESCRIPT/issues"
+  },
+  "homepage": "https://github.com/fyoussef/SOLID-TYPESCRIPT#readme",
+  "devDependencies": {
+    "ts-loader": "^9.2.8",
+    "typescript": "^4.6.3",
+    "webpack": "^5.70.0",
+    "webpack-cli": "^4.9.2"
+  }
+}
